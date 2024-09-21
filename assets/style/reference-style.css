@@ -1,0 +1,11 @@
+
+h1{
+    text-align: center;
+    padding-top: 10%;
+}
+ol{
+    padding: 10%;
+}
+ol li{
+    padding-block: 10px;
+}

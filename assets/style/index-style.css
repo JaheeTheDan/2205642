@@ -1,0 +1,36 @@
+
+header, section:not(#storyboard-page){
+  padding: 10%;
+  align-items: center;
+  display: flex;
+}
+
+header img {
+  width: 50%;
+  max-width: 300px;
+  height: auto;
+}
+
+header div, section div {
+  padding: 0 5%;
+}
+
+
+section img{
+  width: 50%;
+  max-width: 350px;
+}
+section p{
+  padding: 10% 0;
+}
+
+section:nth-of-type(odd){
+  background-color: var(--black);
+}
+
+
+#storyboard-page{
+  padding: 10%;
+  text-align: center;
+}
+

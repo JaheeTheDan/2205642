@@ -1,0 +1,13 @@
+#twelve-pillars div {
+    padding: 5% 0;
+}
+
+#degree{
+    background-color: var(--black);
+    padding: 10%;
+    text-align: center;
+}
+
+#degree li{
+    list-style-position: inside;
+}

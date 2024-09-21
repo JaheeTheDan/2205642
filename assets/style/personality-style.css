@@ -1,0 +1,60 @@
+header{
+    padding: 15%;
+    font-size: x-large;
+    text-align: center;
+}
+
+
+section {
+    padding: 10%;
+}
+
+#sect-1{
+    display: flex;
+    text-align: center;
+}
+
+#sect-1 div{
+    width: 33% ;
+}
+
+#sect-1 div:nth-child(2){
+    padding-inline: 10px;
+}
+
+
+#hero{
+    display: flex;
+    align-items: center;
+}
+
+#hero img{
+    width: 50%;
+    max-height: 700px;
+    height: auto;
+
+}
+
+#hero p{
+    padding-block: 10px;
+}
+
+#hero .quote{
+    font-style: italic;
+}
+
+#test{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#test img{
+    width: 250px;
+    height: auto;
+}
+
+#test p{
+    padding-right: 20px;
+}
