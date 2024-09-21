@@ -70,7 +70,7 @@ a:hover{
 
 
 footer{
-  position: fixed;
+  position: static;
   width: 100%;
   bottom: 0;
   background-color: var(--darker-pink);

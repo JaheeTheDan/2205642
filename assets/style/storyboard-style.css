@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+    padding: 10%;
+}
+h2{ 
+    text-align: center;
+}
+section{
+    padding: 10%;
+}
+#layout-design img{
+    padding: 0 10px;
+    width: 50%;
+}
+
+#layout-design div{
+    display: flex;
+}
+#layout-design p{
+    padding-top: 40px ;
+}
